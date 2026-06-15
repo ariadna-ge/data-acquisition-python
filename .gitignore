@@ -1,0 +1,9 @@
+# Archivos de credenciales y configuración
+.env
+
+# Archivos de registro (logs)
+*.log
+
+# Checkpoints de Jupyter/Colab
+.ipynb_checkpoints/
+__pycache__/
